@@ -1,0 +1,22 @@
+{
+  "params": {
+      "name": "Shaurydeep Saxena",
+      "about": "I am a highly motivated problem solver, skilled programmer, and dedicated Python Developer. My passion for Artificial Intelligence and Machine Learning has led me to constantly explore new technologies and learn new skills, making me a dynamic and versatile member of any team.",
+      "about2": " I am always eager to take on challenges and find innovative solutions to complex problems. I believe that my strong analytical and critical thinking skills, combined with my programming expertise, enable me to develop robust and efficient solutions that exceed expectations.",
+      "about3": "In addition to my technical expertise, I bring a strong work ethic, attention to detail, and a creative approach to problem-solving to every project I work on. I am confident in my ability to develop and deliver high-quality software solutions that meet and exceed the expectations of my clients.",
+      "about_head": "Programmer & Python Developer.",
+      "birthday": "January 22,2003",
+      "phone": "+91 9639538459",
+      "city": "Kashipur, India",
+      "degree": "B.Tech CSE(Hons.) AI-ML",
+      "email": "shaurydeepsaxena@gmail.com",
+      "role": "Student",
+      "leet_image":"leetcode.svg",
+      "gfg_image":"gfg.svg",
+      "star_img": "star.svg",
+      "hrank_image": "hrank.svg",
+      "codechef_image": "codechef.svg",
+      "facts": "Being a coder, I have accounts on various coding platforms, below is the progress of all the acounts:",
+      "resume_head": "Take a closer look at my skills and qualifications with my detailed resume."
+  }
+}
