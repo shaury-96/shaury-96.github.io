@@ -1,5 +1,4 @@
 from flask import Flask,render_template,request
-from flask_frozen import Freezer
 import json
 import apitest
 
@@ -7,7 +6,6 @@ with open('config.json', 'r') as c:
     params = json.load(c)["params"]
 
 app=Flask(__name__)
-freezer = Freezer(app)
 @app.route("/")
 @app.route("/ShaurydeepSaxena")
 def home():
