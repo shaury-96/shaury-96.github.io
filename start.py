@@ -29,5 +29,5 @@ def home():
 #         message = request.form.get('message')
 #         Mail.send_message('New message from' + name, sender=email, recipents=params['gmail_user'], body=message + "\n")
 #         return render_template("index.html")
-
-app.run(debug=True)
+if __name__=="__main__":
+    app.run(debug=True)
